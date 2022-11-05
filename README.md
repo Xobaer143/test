@@ -3,7 +3,7 @@
 <head>
 
 </head>
-<body>
+<body bgcolor="#ffff00">
  
  <h2 align="center">ড. মাহবুবুর রহমান মোল্লা কলেজ</h2> <table border="1"align="right"><tr><td> দিবা</td></tr></table>
 <br><h3 align="center">বর্ষ সমাপনী পরীক্ষা-২০২২</h3>
